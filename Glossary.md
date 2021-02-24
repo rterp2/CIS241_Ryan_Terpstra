@@ -40,7 +40,7 @@ sort [filename]
 cut OPTION [filename]
 ```
 
-:*uniq** - uniq is the tool that helps to detect the adjacent duplicate lines and also deletes the duplicate lines. uniq filters out the adjacent matching lines from the input file(that is required as an argument) and writes the filtered data to the output file .
+**uniq** - uniq is the tool that helps to detect the adjacent duplicate lines and also deletes the duplicate lines. uniq filters out the adjacent matching lines from the input file(that is required as an argument) and writes the filtered data to the output file .
 
 ```
 uniq [filename]
