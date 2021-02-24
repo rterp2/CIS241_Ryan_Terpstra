@@ -1,0 +1,15 @@
+Wed 10 Feb 2021 06:19:47 PM UTC
+test using vim
+this is a nice editor
+the tutorial was nice
+
+test using emacs
+this editor is complex
+i will be using vim
+
+test using nano
+this editor is simple
+will be using vim due to prof reccomendation
+
+Url is:  git@github.com:rterp2/CIS241_Ryan_Terpstra.gitg
+
