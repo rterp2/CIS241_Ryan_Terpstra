@@ -1,10 +1,10 @@
-
-sed 's/41/a/g' 
-sed 's/45/e/g' 
-sed 's/50/p/g'
-sed 's/52/r/g' 
-sed 's/53/s/g' 
-sed 's/54/t/g' 
-sed 's/55/u/g'
+s/0a/\n/g
+s/41/a/g 
+s/45/e/g 
+s/50/p/g
+s/52/r/g 
+s/53/s/g 
+s/54/t/g 
+s/55/u/g
 
 

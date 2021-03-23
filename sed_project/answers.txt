@@ -1,4 +1,18 @@
-Answers.
+Answers
 
+1.  sed -E '/col|hon|behavi|hum/ s/or/our/g' american-english > /home/terpsrya/CIS241_
+Ryan_Terpstra/sed_project/new_dict
 
+2.  sed -iE 's/FOOPS/if/g; s/BEEPBOOP/\/\*\*/g' MyFile.c
 
+3.  sed -iE '/<script/,/</script>/d'  faculty >> faculty.index
+
+4.  sed -nE '/#.*define/ s/#.*define//p' /usr/include/limits.h > clean_limits.h
+
+5.  sed -i.ORIG -E 's/gattaca/@@GREATMOVIE@@/g' dna.txt  
+
+6.  sed -f scriptFile file > decoded
+
+7.  sed '50,$!d' lyrics|tac
+
+8.  ./hwinfo.sh 
