@@ -5,7 +5,7 @@ Ryan_Terpstra/sed_project/new_dict
 
 2.  sed -iE 's/FOOPS/if/g; s/BEEPBOOP/\/\*\*/g' MyFile.c
 
-3.  sed -iE '/<script/,/</script>/d'  faculty >> faculty.index
+3.  sed -E '/<script/,/<\/script>/d' faculty > faculty.index
 
 4.  sed -nE '/#.*define/ s/#.*define//p' /usr/include/limits.h > clean_limits.h
 
