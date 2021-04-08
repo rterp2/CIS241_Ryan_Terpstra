@@ -23,7 +23,7 @@ int main(int argc, char** argv){
 	
 
 	// Write out the new file.
-	save_file("sorted_file", contents, size);	
+	//save_file("sorted_file", contents, size);	
 	
 }
 
